@@ -1,0 +1,12 @@
+# Set classifier as (1) PNN or (2) MLP
+network_type 2
+
+# Verbose output to show progress
+verbose y
+
+# Path to the output file for predictions (can be relative FROM CWD or absolute)
+outfile pcasys.out
+
+# RELATIVE PATH FROM PCASYS location to the list of fingerprint images to run in demo
+demo_images_list ../../a1_files/paths_to_your_fingerprints_for_pcasys.txt
+# That file needs to be space delimited with just some fingerprint type hardcoded, it does not matter which (you can just put A for each)

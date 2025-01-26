@@ -1,0 +1,4 @@
+a1_files/out/101_1.wsq A
+a1_files/out/102_1.wsq A
+a1_files/out/102_5.wsq A
+a1_files/out/104_4.wsq A
